@@ -13,7 +13,7 @@ const Hero = () => {
           onClick={() =>
             // Add the link here
             // todo
-            window.open("", "_blank")
+            window.open("https://github.com/juhaina1996", "_blank")
           }
           className='black_btn'
         >
